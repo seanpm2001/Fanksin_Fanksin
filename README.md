@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fanksin
 - 👀 I’m interested in Javascript techs
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to share what I learn
 - 📫 hey@fanksin.com
