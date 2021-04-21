@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **React.**
 
-- 👨‍💻 All of my projects are available at [serhat.codes](serhat.codes)
+- 👨‍💻 All of my projects are available at [serhat.codes](https://serhat.codes)
 
-- 📝 I regularly write articles on [serhat.codes/blog/](serhat.codes/blog/)
+- 📝 I regularly write articles on [serhat.codes/blog/](https://serhat.codes/blog/)
 
 - 💬 Ask me about **php, javascript, jquery.**
 
 - 📫 How to reach me **hi@serhat.codes**
 
-- 📄 Know about my experiences [serhat.codes](serhat.codes)
+- 📄 Know about my experiences [serhat.codes](https://serhat.codes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
