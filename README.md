@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Tamamliyo](https://tamamliyo.com)
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning React
 
 - 📫 How to reach me **hi@serhat.codes**
 
