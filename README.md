@@ -7,8 +7,11 @@
 
 
 🔭 I’m currently working on [Tamamliyo](https://tamamliyo.com)
+
 🌱 I’m currently learning React
+
 📫 How to reach me **hi@serhat.codes**
+
 📄 Know about my experiences [serhat.codes](https://serhat.codes)
 
 <h3 align="center">Connect with me:</h3>
