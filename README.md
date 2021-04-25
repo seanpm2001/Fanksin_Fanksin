@@ -2,11 +2,14 @@
 <h2 align="center">A passionate frontend developer from Istanbul</h2>
 <p align="center">
 🔭 I’m currently working on [Tamamliyo](https://tamamliyo.com)
-
+</p>
+<p align="center">
 🌱 I’m currently learning React
-
+</p>
+<p align="center">
 📫 How to reach me **hi@serhat.codes**
-
+</p>
+<p align="center">
 📄 Know about my experiences [serhat.codes](https://serhat.codes)
 </p>
 <h3 align="center">Connect with me:</h3>
