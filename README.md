@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serhat.</h1>
 <h2 align="center">A passionate frontend developer from Istanbul</h2>
-
+<p align="center">
 🔭 I’m currently working on [Tamamliyo](https://tamamliyo.com)
 
 🌱 I’m currently learning React
@@ -8,7 +8,7 @@
 📫 How to reach me **hi@serhat.codes**
 
 📄 Know about my experiences [serhat.codes](https://serhat.codes)
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/fanksin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fanksin" height="30" width="40" /></a>
