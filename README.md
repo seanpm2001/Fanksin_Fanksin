@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serhat.</h1>
 <h2 align="center">A passionate frontend developer from Istanbul</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fanksin&label=Profile%20views&color=0e75b6&style=flat" alt="fanksin" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fanksin" alt="fanksin" /></a> </p>
-
-
 🔭 I’m currently working on [Tamamliyo](https://tamamliyo.com)
 
 🌱 I’m currently learning React
@@ -34,3 +29,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanksin&show_icons=true&locale=en&layout=compact" alt="fanksin" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanksin&" alt="fanksin" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fanksin&label=Profile%20views&color=0e75b6&style=flat" alt="fanksin" /> </p>
+
