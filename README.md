@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋, I'm Serhat.</h2>
 <h3 align="center">A passionate frontend developer from Istanbul</h3>
 
-🐱‍🏍 I’m currently working on [Tamamliyo](https://tamamliyo.com)
-
 🐱‍👓 How to reach me **hi@serhat.codes**
 
 🐱‍💻 Know about my experiences on my [linkedin](https://www.linkedin.com/in/serhat-aksakal/) profile
