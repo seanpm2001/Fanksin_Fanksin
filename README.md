@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Serhat.</h2>
 <h3 align="center">A passionate frontend developer from Istanbul</h3>
 
-🐱‍👓 How to reach me **hi@serhat.codes**
+🐱‍👓 Reach me at **hi@serhat.codes**
 
 🐱‍💻 Get to know me on my [linkedin](https://www.linkedin.com/in/serhat-aksakal/) profile
 
