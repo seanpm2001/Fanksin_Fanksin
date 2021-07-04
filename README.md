@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Serhat.</h2>
-<h3 align="center">A passionate frontend developer from Istanbul</h3>
+<h3 align="center">Frontend developer from Istanbul</h3>
 
 🐱‍👓 Reach me at **hi@serhat.codes**
 
