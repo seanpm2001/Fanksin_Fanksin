@@ -1,6 +1,6 @@
 <h3>Frontend developer from Istanbul</h3>
 
-🐱‍👓 **hi@serhat.codes**
+🐱‍👓 **info@serhataksakal.com**
 
 🐱‍💻 Learn more about me on my [linkedin](https://www.linkedin.com/in/serhat-aksakal/) profile
 
