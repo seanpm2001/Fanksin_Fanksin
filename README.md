@@ -1,4 +1,4 @@
-<h3>Frontend developer from Istanbul</h3>
+<h3>SWE from Istanbul</h3>
 
 🐱‍👓 **info@serhataksakal.com**
 
